@@ -1,10 +1,11 @@
-
+import React from "react";
+import Navbar from "./Components/Navbar";
 
 
 function App() {
   return (
     <div >
-      <h3 className="text-8xl">ooerjorfoo</h3>
+      <Navbar/>
     </div>
   );
 }
